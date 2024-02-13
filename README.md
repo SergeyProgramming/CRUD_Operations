@@ -11,3 +11,5 @@ Microsoft.EntityFrameworkCore.Tools.
 Npgsql.EntityFrameworkCore.PostgreSQL.
 
 Ссылка: https://github.com/SergeyProgramming/CRUD_Operations.git
+
+13.02.2024
