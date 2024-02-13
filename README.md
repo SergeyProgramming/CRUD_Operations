@@ -7,5 +7,5 @@ C# консольное приложение по операциям CRUD.
 5. Обновление данных пользователя.
 
 Пакеты NuGet: 
-Microsoft.EntityFrameworkCore.Tools.      - 
+Microsoft.EntityFrameworkCore.Tools.      
 Npgsql.EntityFrameworkCore.PostgreSQL.
