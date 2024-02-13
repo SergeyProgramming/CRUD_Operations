@@ -9,3 +9,5 @@ C# консольное приложение по операциям CRUD.
 Пакеты NuGet: 
 Microsoft.EntityFrameworkCore.Tools.      
 Npgsql.EntityFrameworkCore.PostgreSQL.
+
+Ссылка: https://github.com/SergeyProgramming/CRUD_Operations.git
